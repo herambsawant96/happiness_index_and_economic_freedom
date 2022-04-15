@@ -1,8 +1,0 @@
-The World Happiness Index (Kaggle Dataset):
-https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2022.csv
-
-Index of Economic Freedom by The Heritage Foundation
-https://www.heritage.org/index/explore?view=by-region-country-year&u=637853313693491680
-
-World bank API
-https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation
